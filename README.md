@@ -1,5 +1,5 @@
-# Fire-Detection-and-Alarm-System
-** Academic Project **
+# Fire Detection Localization
+**Academic Project**
 
 Fire outbreak is a common issue happening everywhere in the world. It represents a real threat to human lives, ecological systems, and infrastructure. Therefore, Fire Detection is valuable. An Early Fire Detection would warn us and a big disaster can be averted. The project aims to develop an efficient fire detection system that comes as a warning to reduce the losses caused by hazardous fire.
 
